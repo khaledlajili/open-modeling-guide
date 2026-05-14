@@ -39,8 +39,8 @@ Using MDA for system lifecycle management means:
 
 ## Getting Started
 
-Explore the [Model Driven Architecture guide](/mda/intro) to learn how these principles apply to your organization's system development and maintenance processes.
+Explore the [Model Driven Architecture guide](/mda/executive-summary) to learn how these principles apply to your organization's system development and maintenance processes.
 
 ---
 
-*Want to learn more about MDA principles and practical applications? [Read the full MDA guide](/mda/intro).*
+*Want to learn more about MDA principles and practical applications? [Read the full MDA guide](/mda/executive-summary).*
