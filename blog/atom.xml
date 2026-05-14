@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://khaledlajili.github.io/open-modeling-guide/blog/</id>
+    <title>Open Modeling Guide Blog</title>
+    <updated>2026-05-12T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://khaledlajili.github.io/open-modeling-guide/blog/"/>
+    <subtitle>Open Modeling Guide Blog</subtitle>
+    <icon>https://khaledlajili.github.io/open-modeling-guide/img/logo.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Why MDA Matters for System Lifecycle Management]]></title>
+        <id>https://khaledlajili.github.io/open-modeling-guide/blog/mda-system-lifecycle/</id>
+        <link href="https://khaledlajili.github.io/open-modeling-guide/blog/mda-system-lifecycle/"/>
+        <updated>2026-05-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Model Driven Architecture (MDA) is essential for managing system lifecycles effectively. When you work with models as semantic data, you gain the ability to propagate changes automatically across your entire system—from design through implementation and maintenance.]]></summary>
+        <content type="html"><![CDATA[<p>Model Driven Architecture (MDA) is essential for managing system lifecycles effectively. When you work with models as semantic data, you gain the ability to propagate changes automatically across your entire system—from design through implementation and maintenance.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-challenge-managing-system-complexity">The Challenge: Managing System Complexity<a href="https://khaledlajili.github.io/open-modeling-guide/blog/mda-system-lifecycle/#the-challenge-managing-system-complexity" class="hash-link" aria-label="Direct link to The Challenge: Managing System Complexity" title="Direct link to The Challenge: Managing System Complexity" translate="no">​</a></h2>
+<p>Modern systems are increasingly complex. When changes occur—whether in business requirements, technology standards, or infrastructure—they must be reflected consistently across documentation, specifications, code, and deployments. Manual approaches are error-prone and costly to maintain.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="how-mda-solves-the-problem">How MDA Solves the Problem<a href="https://khaledlajili.github.io/open-modeling-guide/blog/mda-system-lifecycle/#how-mda-solves-the-problem" class="hash-link" aria-label="Direct link to How MDA Solves the Problem" title="Direct link to How MDA Solves the Problem" translate="no">​</a></h2>
+<p>MDA provides a structured approach to this challenge:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-separation-of-concerns">1. <strong>Separation of Concerns</strong><a href="https://khaledlajili.github.io/open-modeling-guide/blog/mda-system-lifecycle/#1-separation-of-concerns" class="hash-link" aria-label="Direct link to 1-separation-of-concerns" title="Direct link to 1-separation-of-concerns" translate="no">​</a></h3>
+<p>Keep what your system does (business logic) separate from how technology implements it. This clarity makes it easier to adapt to changes in either domain.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-automation-first">2. <strong>Automation-First</strong><a href="https://khaledlajili.github.io/open-modeling-guide/blog/mda-system-lifecycle/#2-automation-first" class="hash-link" aria-label="Direct link to 2-automation-first" title="Direct link to 2-automation-first" translate="no">​</a></h3>
+<p>Once your model is correct, let tools generate the rest. Code generation, schemas, documentation, and tests all derive from the same source of truth.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-consistency-throughout-the-lifecycle">3. <strong>Consistency Throughout the Lifecycle</strong><a href="https://khaledlajili.github.io/open-modeling-guide/blog/mda-system-lifecycle/#3-consistency-throughout-the-lifecycle" class="hash-link" aria-label="Direct link to 3-consistency-throughout-the-lifecycle" title="Direct link to 3-consistency-throughout-the-lifecycle" translate="no">​</a></h3>
+<p>From initial architecture through deployment and maintenance, models ensure consistency. When you update a model, all derived artifacts can be regenerated automatically.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-practical-impact">The Practical Impact<a href="https://khaledlajili.github.io/open-modeling-guide/blog/mda-system-lifecycle/#the-practical-impact" class="hash-link" aria-label="Direct link to The Practical Impact" title="Direct link to The Practical Impact" translate="no">​</a></h2>
+<p>Using MDA for system lifecycle management means:</p>
+<ul>
+<li class=""><strong>Faster adaptation</strong> when requirements change</li>
+<li class=""><strong>Higher quality</strong> through automatic consistency checking</li>
+<li class=""><strong>Reduced maintenance burden</strong> with automated transformations</li>
+<li class=""><strong>Better documentation</strong> that stays in sync with implementation</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="getting-started">Getting Started<a href="https://khaledlajili.github.io/open-modeling-guide/blog/mda-system-lifecycle/#getting-started" class="hash-link" aria-label="Direct link to Getting Started" title="Direct link to Getting Started" translate="no">​</a></h2>
+<p>Explore the <a class="" href="https://khaledlajili.github.io/open-modeling-guide/mda/executive-summary/">Model Driven Architecture guide</a> to learn how these principles apply to your organization's system development and maintenance processes.</p>
+<hr>
+<p><em>Want to learn more about MDA principles and practical applications? <a class="" href="https://khaledlajili.github.io/open-modeling-guide/mda/executive-summary/">Read the full MDA guide</a>.</em></p>]]></content>
+        <author>
+            <name>Khaled Lajili</name>
+            <uri>https://github.com/khaledlajili</uri>
+        </author>
+        <category label="MDA" term="MDA"/>
+        <category label="Architecture" term="Architecture"/>
+        <category label="Systems" term="Systems"/>
+    </entry>
+</feed>

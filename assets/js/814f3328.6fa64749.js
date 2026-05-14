@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkopen_prompt_engineering_guide=globalThis.webpackChunkopen_prompt_engineering_guide||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Why MDA Matters for System Lifecycle Management","permalink":"/open-modeling-guide/blog/mda-system-lifecycle","unlisted":false,"date":"2026-05-12T00:00:00.000Z"}]}')}}]);

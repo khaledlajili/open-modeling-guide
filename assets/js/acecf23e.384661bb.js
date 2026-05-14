@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkopen_prompt_engineering_guide=globalThis.webpackChunkopen_prompt_engineering_guide||[]).push([[903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/open-modeling-guide/blog","blogTitle":"Blog","authorsListPath":"/open-modeling-guide/blog/authors"}')}}]);

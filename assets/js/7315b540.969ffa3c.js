@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkopen_prompt_engineering_guide=globalThis.webpackChunkopen_prompt_engineering_guide||[]).push([[124],{7262:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/open-modeling-guide/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
