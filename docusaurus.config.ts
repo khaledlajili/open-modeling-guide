@@ -17,6 +17,8 @@ const config: Config = {
     url: 'https://khaledlajili.github.io',
     baseUrl: '/open-modeling-guide/',
 
+    trailingSlash: true,
+
     organizationName: 'khaledlajili',
     projectName: 'open-modeling-guide',
 
