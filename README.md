@@ -4,7 +4,7 @@
 
 [![Community Driven](https://img.shields.io/badge/Community-Driven-blue)](https://github.com/khaledlajili/open-modeling-guide)
 [![Open Source](https://img.shields.io/badge/Open-Source-green)](LICENSE)
-[![Open Source](https://img.shields.io/badge/Open-Source-green)](LICENSE) [![License: CC BY-SA](https://img.shields.io/badge/License-CC%20BY--SA-lightgrey)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY-SA](https://img.shields.io/badge/License-CC%20BY--SA-lightgrey)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 We believe that modeling is a fundamental skill in modern system design — essential for understanding and building complex software systems.
 
