@@ -1,7 +1,6 @@
 import type {ReactNode} from 'react';
 import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import clsx from 'clsx';
 
 import {CardGrid} from '@site/src/components/CardGrid';
@@ -10,11 +9,9 @@ import {guideCards} from '@site/src/content/siteContent';
 import styles from './guides.module.css';
 
 export default function GuidesPage(): ReactNode {
-  const {siteConfig} = useDocusaurusContext();
-
   return (
     <Layout
-      title={`Guides | ${siteConfig.title}`}
+      title="Guides"
       description="Browse the available modeling guides in a card view.">
       <main className={styles.page}>
         <header className={styles.hero}>

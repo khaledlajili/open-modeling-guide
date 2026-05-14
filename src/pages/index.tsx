@@ -71,7 +71,6 @@ export default function Home(): ReactNode {
 
   return (
     <Layout
-      title={`Home | ${siteConfig.title}`}
       description="A practical guide library with modeling publications and blog updates.">
       <HomepageHeader />
       <main className={styles.homepageMain}>
