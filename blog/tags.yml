@@ -1,0 +1,19 @@
+mda:
+  label: MDA
+  permalink: /mda
+  description: Model Driven Architecture topics
+
+architecture:
+  label: Architecture
+  permalink: /architecture
+  description: Software and system architecture
+
+systems:
+  label: Systems
+  permalink: /systems
+  description: System design and lifecycle management
+
+updates:
+  label: Updates
+  permalink: /updates
+  description: Project and publication updates

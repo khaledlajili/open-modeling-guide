@@ -1,0 +1,47 @@
+.page {
+  padding-bottom: 4rem;
+}
+
+.hero {
+  position: relative;
+  overflow: hidden;
+  padding: 5rem 0 4rem;
+  background:
+    radial-gradient(circle at top left, rgba(82, 141, 202, 0.20), transparent 35%),
+    radial-gradient(circle at right center, rgba(44, 84, 165, 0.18), transparent 28%),
+    linear-gradient(180deg, rgba(11, 15, 23, 0.96), rgba(17, 24, 39, 0.92));
+  color: var(--ifm-color-white);
+}
+
+.heroContent {
+  position: relative;
+  z-index: 1;
+}
+
+.eyebrow,
+.sectionKicker {
+  margin: 0 0 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-size: 0.76rem;
+  font-weight: 700;
+  opacity: 0.75;
+}
+
+.title {
+  margin: 0;
+  font-size: clamp(2.2rem, 4vw, 3.8rem);
+  color: var(--ifm-color-white);
+}
+
+.description {
+  max-width: 42rem;
+  margin-top: 1rem;
+  font-size: 1.08rem;
+  line-height: 1.65;
+  color: rgba(255,255,255,0.9);
+}
+
+.section {
+  padding-top: 1rem;
+}
